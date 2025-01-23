@@ -23,11 +23,13 @@
 
 ## 📋 **Project Details**:
 
-<center>**Title**: *League of Legends Game Design Storyboard*  
-**Course**: Game & Simulation Prog 
+<center>
+**Title**: *League of Legends Game Design Storyboard*  
+**Course**: Game & Simulation Prog  
 **Semester**: Winter 2025  
-**Author**: Adam Miszkiewicz
-**Platform**: PowerPoint</center>
+**Author**: Adam Miszkiewicz  
+**Platform**: PowerPoint
+</center>
 
 ---
 
