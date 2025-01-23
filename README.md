@@ -1,6 +1,6 @@
 # 🎮 League of Legends Game Design Storyboard 📜
 
-<center>Welcome to the **League of Legends Game Design Storyboard**! This storyboard provides a comprehensive breakdown of the game, including mechanics, objectives, characters, and key activities. It serves as a reference for anyone looking to understand how the game works, from setting up and progressing through levels to engaging in thrilling teamfights! </center>
+<center>Welcome to the **League of Legends Game Design Storyboard**! This storyboard provides a breakdown of the game, including mechanics, objectives, characters, and key activities. It serves as a reference for anyone looking to understand how the game works, from setting up and progressing through levels to engaging in thrilling teamfights! </center>
 
 ---
 
@@ -24,9 +24,9 @@
 ## 📋 **Project Details**:
 
 <center>**Title**: *League of Legends Game Design Storyboard*  
-**Course**: [Your Course Name]  
+**Course**: Game & Simulation Prog 
 **Semester**: Winter 2025  
-**Author**: [Your Name]  
+**Author**: Adam Miszkiewicz
 **Platform**: PowerPoint</center>
 
 ---
@@ -34,7 +34,7 @@
 ## 💡 **Features of the Storyboard**:
 
 - **Detailed Pages**: The storyboard contains up to **15 pages** of visual and descriptive content for quick reference.
-- **Visuals**: Beautiful images of champions, Summoner’s Rift, and in-game actions make it easy to follow the design.
+- **Visuals**: Images of champions, Summoner’s Rift, and in-game actions make it easy to follow the design.
 - **Interactive**: Use the storyboard to walk through the gameplay experience, understanding the flow and progression.
 - **Character Insights**: Dive deep into **Ahri** and **Yasuo** with specific pages dedicated to their abilities and tactics.
 
